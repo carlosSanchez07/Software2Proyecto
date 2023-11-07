@@ -1,0 +1,20 @@
+Hecho Por:
+Brian Cordoba Loaiza 
+Carlos Andres Briceño
+Carlos Sanchaez Quiroga
+Jhon Diego Lopez Montes
+Manuel Moreno 
+Siven Fajardo ortiz
+
+Proyecto: 
+Nombre del proyecto: My vacation
+Uso: El proyecto es una aplicacion web que es encarga de mostrar al usuario paquetes de viajes, que contiene, el destino, hotel, crucero, automovil y el viaje.
+
+El usuario puede buscar los paquetes por, destino, hotel y fecha de salida.
+
+Tambien, el usuario podra loggearse para poder reservar paquetes, darles calificacion a paquetes ya comparados y poder agregar a favoritos algunos paquetes.
+
+Recomendacion de uso:
+-Debe mantenerse siempre loggeado para poder tener todos los beneficios de la aplicaicon
+-Al momento de hacer una busqueda, aegurarse que este bien escrito el nombre 
+-Asegurarse al momento de reservar, guardar en favoritos o calificar, que esta mirando el paquete corrcto, aun  asi, al momento de equivocarse, tendra la posibilidad de borrarlo.
