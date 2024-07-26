@@ -1,10 +1,6 @@
 Hecho Por:
-Brian Cordoba Loaiza 
-Carlos Andres Briceño
 Carlos Sanchaez Quiroga
-Jhon Diego Lopez Montes
-Manuel Moreno 
-Siven Fajardo ortiz
+
 
 Proyecto: 
 Nombre del proyecto: My vacation
